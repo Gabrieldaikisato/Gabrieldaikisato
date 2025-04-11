@@ -8,4 +8,4 @@ Estou buscando oportunidades de estágio ou emprego júnior para me desenvolver 
 - Contribuir para projetos open-source e aprender com a comunidade.
 
 👨‍💻 Acompanhe meu progresso:
-Meus projetos estão no meu GitHub!
+Meus projetos quue fiz durante o curso no SENAI: https://github.com/Gabrieldaikisato/Programacao-em-python--SENAI
